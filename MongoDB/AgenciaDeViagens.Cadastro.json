@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6577c1bcf069cf407a4d7455"
+  },
+  "nome": "Jaqueline",
+  "email": "Jaque@ijustmadeitup.com",
+  "telefone": "(87)98984756",
+  "cpf": "23569874851",
+  "cidade": "Águas Belas",
+  "estado": "Pernambuco"
+},
+{
+  "_id": {
+    "$oid": "6577c2b6f069cf407a4d7456"
+  },
+  "nome": "Kevin",
+  "email": "kevinho@ijustmadeitup.com",
+  "telefone": "(64)55996262",
+  "cpf": "25478963211",
+  "cidade": "Acreúna",
+  "estado": "Goiás"
+},
+{
+  "_id": {
+    "$oid": "6577c34bf069cf407a4d7457"
+  },
+  "nome": "Pascoal",
+  "email": "paca_paca@ijustmadeitup.com",
+  "telefone": "(32)85859631",
+  "cpf": "25478896311",
+  "cidade": "Juiz de Fora",
+  "estado": "Minas Gerais"
+},
+{
+  "_id": {
+    "$oid": "6577c3e1f069cf407a4d7458"
+  },
+  "nome": "Fernando",
+  "email": "nandinho.inho@ijustmadeitup.com",
+  "telefone": "(69)859989831",
+  "cpf": "45678952261",
+  "cidade": "Alta Floresta",
+  "estado": "Rondônia"
+}]
